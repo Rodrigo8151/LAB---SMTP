@@ -1,0 +1,6 @@
+{
+  "name": "Traductor de Código Educacional",
+  "description": "Plataforma interactiva para la traducción paso a paso de código Python a Java idiomático, con explicaciones educativas, métricas BLEU y análisis inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
